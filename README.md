@@ -3,7 +3,7 @@
   <br/><br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&duration=4500&pause=1200&color=FF4500&center=true&vCenter=true&width=750&lines=DEADLOCK+HACK;OP+SILENT+AIMBOT+2026;ESP+WALLHACK+NO+RECOIL;SPEED+HACK+RADAR;INFINITE+AMMO;UNDTECTED+FAST" alt="Typing SVG" />
 </p>
-![Uploading image.png…]()
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6f7d8987-4a63-4c84-9eda-1b99da9032af" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Popular-%F0%9F%94%A5-gold?style=for-the-badge&logo=github" alt="Popular 🔥"/>
